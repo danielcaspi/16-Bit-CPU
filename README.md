@@ -1,7 +1,11 @@
 # 16-Bit-CPU-Design
+
+Design: 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 <img width="529" alt="Untitled" src="https://github.com/danielcaspi/16-Bit-CPU-Design/assets/145657550/8a0a231a-e3cd-47a2-835e-2dbb7c5cd0b8">
 
-The Instruction Set:
+Instruction set:
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 The instruction set plays a very important role to determine the operation of the CPU. The Code input to the Instruction memory is 16-bit long. This is sent to the instruction register which takes the bits [15:12] as OPCODE and [11:0] as address to start with.
 
